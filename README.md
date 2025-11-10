@@ -13,8 +13,8 @@
 I’m a data analyst and policy researcher with experience in **housing**, **education**, and **health policy**.  
 Currently completing my **M.S. in Data Analytics and Policy** at *Johns Hopkins University.*
 
-[![LinkedIn](https://www.linkedin.com/in/anacarolinavasconcelos/)
-[![GitHub](https://github.com/ana-carolina-vasconcelos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ana-carolina-vasconcelos](https://www.linkedin.com/in/anacarolinavasconcelos/))
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)]([https://github.com/ana-carolina-vasconcelos](https://github.com/ana-carolina-vasconcelos))
 [![Email](https://img.shields.io/badge/Email-avascon2@jh.edu-D14836?logo=gmail&logoColor=white)](mailto:avascon2@jh.edu)
 
 </td>
