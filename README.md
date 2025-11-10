@@ -1,4 +1,3 @@
-<!-- Create a two-column layout using HTML inside Markdown -->
 
 <table>
 <tr>
