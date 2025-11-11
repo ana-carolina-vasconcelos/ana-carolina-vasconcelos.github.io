@@ -24,11 +24,11 @@ layout: default
 </td>
 
 <!-- RIGHT COLUMN -->
-<td style="width:90%; vertical-align:top; padding-left:10px;">
+<td style="width:90%; vertical-align:top; padding-left:0px;">
   
 <h3>📊 <strong>Dashboards & Interactive Visualizations</strong></h3>
 
-<ul style="margin-top:5px; margin-bottom:5px; padding-left:5px;">
+<ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
     Interactive R Shiny dashboard visualizing disparities in K–12 education in Massachusetts.  
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/" 
@@ -44,7 +44,7 @@ layout: default
 <!-- ======================== -->
 <h3>🔍 <strong>Exploratory Data Analysis</strong></h3>
 
-<ul style="margin-top:5px; margin-bottom:5px; padding-left:5px;">
+<ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
     Analysis of public opinion using American National Election Studies data.  
     <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
@@ -62,7 +62,7 @@ layout: default
 <!-- ======================== -->
 <h3>🧮 <strong>Statistical Analysis</strong></h3>
 
-<ul style="margin-top:5px; margin-bottom:5px; padding-left:5px;">
+<ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
     Regression Analysis of Evictions in Boston.  
     <a href="https://rpubs.com/anavasconcelos/1367326" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
@@ -75,5 +75,6 @@ layout: default
 <!-- ARCGIS PROJECTS -->
 <!-- ======================== -->
 <h3>🗺️ <strong> ArcGIS Projects</strong></h4>
+
 
 
