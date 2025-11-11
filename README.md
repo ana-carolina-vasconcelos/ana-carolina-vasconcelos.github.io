@@ -3,7 +3,7 @@ layout: default
 title: Ana Carolina Vasconcelos
 ---
 
-<img src="profile.jpg" width="180" style="border-radius: 50%; display:block; margin:auto; border:3px solid #ccc;" />
+<img src="picture.jpg" width="180" style="border-radius: 50%; display:block; margin:auto; border:3px solid #ccc;" />
 
 ## Ana Carolina Vasconcelos
 
