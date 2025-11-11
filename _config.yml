@@ -1,3 +1,5 @@
+theme: minima
 title: "Ana Carolina Vasconcelos"
-theme: jekyll-theme-orderedlist
-description: "Data Analyst | Policy Researcher"
+description: "Data Analyst | Policy Researcher | Portfolio"
+include:
+  - index.md
