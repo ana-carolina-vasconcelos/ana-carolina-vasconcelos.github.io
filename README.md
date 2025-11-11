@@ -1,4 +1,4 @@
-<img src="profile.jpg" width="160" style="border-radius: 50%; border: 2px solid #ccc;" align="left" />
+<img src="picture.jpg" width="160" style="border-radius: 50%; border: 2px solid #ccc;" align="left" />
 
 ## Ana Carolina Vasconcelos  
 **Data Analyst | Policy Researcher**  
