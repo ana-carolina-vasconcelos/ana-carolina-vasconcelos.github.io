@@ -1,6 +1,12 @@
-<img src="picture.jpg" width="160" style="border-radius: 50%; border: 2px solid #ccc;" align="left" />
+---
+layout: default
+title: Ana Carolina Vasconcelos
+---
 
-## Ana Carolina Vasconcelos  
+<img src="profile.jpg" width="180" style="border-radius: 50%; display:block; margin:auto; border:3px solid #ccc;" />
+
+## Ana Carolina Vasconcelos
+
 **Data Analyst | Policy Researcher**  
 I’m a data analyst focused on **housing, education, and health policy**, currently completing my **M.S. in Data Analytics and Policy** at *Johns Hopkins University*.
 
@@ -10,12 +16,12 @@ I’m a data analyst focused on **housing, education, and health policy**, curre
 
 ---
 
-# 🧮 Data Science Portfolio  
+# Data Science Portfolio
 
-## 📈 Statistical & Policy Analysis  
+## 🧮 Statistical & Policy Analysis  
 
 ### 🏠 LIHTC Housing Study  
-Evaluating the impact of the Low-Income Housing Tax Credit (LIHTC) on rent and affordability in Los Angeles County.  
+Evaluating the impact of the **Low-Income Housing Tax Credit (LIHTC)** on rent and affordability in Los Angeles County.  
 - *Methods:* Multi-period difference-in-differences, event-study models  
 - *Tools:* R (`fixest`, `tidycensus`, `sf`)  
 [View Project →](https://github.com/ana-carolina-vasconcelos/LIHTC-analysis)
