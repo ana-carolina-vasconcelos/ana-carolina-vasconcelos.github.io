@@ -27,21 +27,26 @@ I’m a data analyst focused on <strong>housing, education, and health policy</s
 <td style="width:65%; vertical-align:top; padding-left:20px;">
 
 # Data Science Portfolio
-
-## 📈 Statistical & Policy Analysis
-
-### 🏠 LIHTC Housing Study  
-Evaluating the impact of the **Low-Income Housing Tax Credit (LIHTC)** on rent and affordability in Los Angeles County.  
-- *Methods:* Multi-period difference-in-differences, event-study models  
-- *Tools:* R (`fixest`, `tidycensus`, `sf`)  
-[View Project →](https://github.com/ana-carolina-vasconcelos/LIHTC-analysis)
-
 ---
 
-### 📊 Education Equity Dashboard  
-Interactive R Shiny dashboard visualizing disparities in K–12 education access across Massachusetts.  
-[Interactive Scatterplot](https://example.com) • [Dashboard](https://example.com)
+<hr>
+
+<h3>📊 <strong>Education Equity Dashboard</strong></h3>
+<p>
+Interactive R Shiny dashboard visualizing disparities in K–12 education access across Massachusetts.<br>
+<a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/" style="color:#007acc; font-weight:bold;">View Dashboard</a> • 
+<a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Data_Visualization_Project_DRAFT/" style="color:#007acc; font-weight:bold;">Interactive Scatterplot</a>
+</p>
+
+<hr>
+
+<h3>🧠 <strong>Exploratory Data Analysis – ANES Survey</strong></h3>
+<p>
+Exploratory analysis of public opinion and attitudes using data from the <em>American National Election Studies (ANES)</em>.<br>
+<a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
+</p>
 
 </td>
 </tr>
 </table>
+
