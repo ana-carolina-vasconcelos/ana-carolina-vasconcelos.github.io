@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
+<style>
+.page-content {
+  max-width: 1200px !important;  /* wider content area */
+  margin: 0 auto;
+  padding: 0 2%;
+}
+</style>
 
 <table style="width:100%; border:none;">
 <tr>
 <!-- LEFT COLUMN -->
 <td style="width:28%; text-align:center; vertical-align:top;">
-
+     
 <!-- ROUND PHOTO -->
 <img src="picture.jpg" width="160" 
      style="border-radius:50%; border:3px solid #ccc; margin-bottom:15px; object-fit:cover;">
@@ -75,6 +82,7 @@ layout: default
 <!-- ARCGIS PROJECTS -->
 <!-- ======================== -->
 <h3>🗺️ <strong> ArcGIS Projects</strong></h4>
+
 
 
 
