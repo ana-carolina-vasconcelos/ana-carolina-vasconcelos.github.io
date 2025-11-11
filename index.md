@@ -31,7 +31,7 @@ I’m a data analyst focused on <strong>housing, education, and health policy</s
 
 <hr>
 
-<h3>📊 <strong>Education Equity Dashboard</strong></h3>
+<h3>🎓 <strong>Education Equity Dashboard</strong></h3>
 <p>
 Interactive R Shiny dashboard visualizing disparities in K–12 education access across Massachusetts.<br>
 <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/" style="color:#007acc; font-weight:bold;">View Dashboard</a> • 
@@ -40,10 +40,18 @@ Interactive R Shiny dashboard visualizing disparities in K–12 education access
 
 <hr>
 
-<h3>🧠 <strong>Exploratory Data Analysis – ANES Survey</strong></h3>
+<h3>📋 <strong>Exploratory Data Analysis – ANES Survey</strong></h3>
 <p>
 Exploratory analysis of public opinion and attitudes using data from the <em>American National Election Studies (ANES)</em>.<br>
 <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
+</p>
+
+<hr>
+
+<h3>🏠 <strong>Exploratory Data Analysis – New York City Open Data</strong></h3>
+<p>
+Exploratory analysis of homelessness in NYC using <em>New York City Open Data</em>.<br>
+<a href="https://rpubs.com/anavasconcelos/1367252" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
 </p>
 
 </td>
