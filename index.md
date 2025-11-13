@@ -53,12 +53,16 @@ layout: default
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Analysis of public opinion using American National Election Studies data.  
+    Public opinion and attitudes about government spending 
     <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
-    Analysis of homelessness using NYC Open Data.  
+    Homelessness in NYC 
     <a href="https://rpubs.com/anavasconcelos/1367252" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
+  </li>
+  <li>
+   K-12 education disparities in Massachusetts.  
+    <a href="https://rpubs.com/anavasconcelos/1368323" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
 </ul>
 
@@ -71,7 +75,7 @@ layout: default
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Regression Analysis of Evictions in Boston.  
+    Logistic regression analysis of evictions in Boston.  
     <a href="https://rpubs.com/anavasconcelos/1367326" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
 </ul>
@@ -82,6 +86,7 @@ layout: default
 <!-- ARCGIS PROJECTS -->
 <!-- ======================== -->
 <h3>🗺️ <strong> ArcGIS Projects</strong></h4>
+
 
 
 
