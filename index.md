@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ""
 ---
 <style>
 .page-content {
@@ -19,8 +20,8 @@ layout: default
      style="border-radius:50%; border:3px solid #ccc; margin-bottom:15px; object-fit:cover;">
 
 <h2 style="margin-bottom:5px;">Ana Vasconcelos</h2>
-<p align="center" style="font-size:20px; margin-top:10px;">
-  Data Analyst · Public Policy · Visualization & Analytics
+<p align="center" style="font-size:12px; margin-top:10px;">
+  Data Analyst | Public Policy | Visualization & Analytics
 </p>
 <!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/anacarolinavasconcelos/">
@@ -82,6 +83,7 @@ layout: default
 </ul>
 
 <hr>
+
 
 
 
