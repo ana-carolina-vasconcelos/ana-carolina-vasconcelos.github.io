@@ -19,14 +19,15 @@ layout: default
      style="border-radius:50%; border:3px solid #ccc; margin-bottom:15px; object-fit:cover;">
 
 <h2 style="margin-bottom:5px;">Ana Vasconcelos</h2>
-
+<p align="center" style="font-size:20px; margin-top:10px;">
+  Data Analyst · Public Policy · Visualization & Analytics
+</p>
 <!-- SOCIAL LINKS -->
-<a href="https://linkedin.com/in/ana-carolina-vasconcelos">
+<a href="https://www.linkedin.com/in/anacarolinavasconcelos/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/ana-carolina-vasconcelos">
-<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:avascon2@jh.edu"><br>
-<img src="https://img.shields.io/badge/Email-avascon2@jh.edu-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:avascon2@jh.edu">
+  <img src="https://img.shields.io/badge/Email-avascon2@jh.edu-0078D4?logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
 
 </td>
 
@@ -81,6 +82,7 @@ layout: default
 </ul>
 
 <hr>
+
 
 
 
