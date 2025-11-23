@@ -38,17 +38,7 @@ body {
   padding: 30px 2%;
 }
 
-/* ========================================================= */
-/* TOP ACADEMIC HEADER BAR */
-/* ========================================================= */
-.academic-header {
-  width: 100%;
-  height: 70px;
-  background: #e5e8f0;
-  border-bottom: 1px solid #d0d4de;
-  margin-bottom: 30px;
-  border-radius: 4px;
-}
+
 
 /* ========================================================= */
 /* MAIN CARD */
@@ -114,7 +104,7 @@ hr {
 </style>
 
 <!-- ACADEMIC HEADER BAR -->
-<div class="academic-header"></div>
+<div style="border-top: 1px solid #d4d7dd; margin-bottom: 20px;"></div>
 
 <div class="main-card">
 
@@ -154,7 +144,7 @@ hr {
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Dashboard of changing demographics in K–12 education in Massachusetts.  
+    Dashboard of changing demographics in K–12 education.
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/">View on R Shiny →</a>
   </li>
   <li>
@@ -178,7 +168,7 @@ hr {
     <a href="https://rpubs.com/anavasconcelos/1367252">View on RPubs →</a>
   </li>
   <li>
-    A portfolio displaying analyses of K–12 education disparities in Massachusetts.  
+    A portfolio showcasing disparities in K–12 education.
     <a href="https://rpubs.com/anavasconcelos/1368323">View on RPubs →</a>
   </li>
 </ul>
@@ -202,3 +192,4 @@ hr {
 </table>
 
 </div>
+
