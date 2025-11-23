@@ -4,6 +4,17 @@ description: "Ana Vasconcelos"
 ---
 <style>
 
+/* Force full-page centering */
+.wrapper, .page-content {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Remove Minima's default internal padding */
+.wrapper {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
 /* ======================================= */
 /* PAGE BACKGROUND + WIDTH */
 /* ======================================= */
@@ -171,3 +182,4 @@ hr {
 </table>
 
 </div>
+
