@@ -1,15 +1,20 @@
 ---
 layout: default
-title: ""
 ---
 <style>
-.page-content {
-  max-width: 1200px !important;  /* wider content area */
+/* Expand full page width */
+.wrapper {
+  max-width: 1400px !important;
   margin: 0 auto;
+}
+
+/* Expand content area */
+.page-content {
+  max-width: 1400px !important;
+  width: 100% !important;
   padding: 0 2%;
 }
 </style>
-
 <table style="width:100%; border:none;">
 <tr>
 <!-- LEFT COLUMN -->
@@ -86,6 +91,7 @@ title: ""
 </ul>
 
 <hr>
+
 
 
 
