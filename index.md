@@ -39,11 +39,14 @@ title: ""
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Interactive R Shiny dashboard visualizing disparities in K–12 education in Massachusetts.  
+   Dashboard of changing demographics in K–12 education.   
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/" 
-       style="color:#007acc; font-weight:bold;">Dashboard</a> • 
+       style="color:#007acc; font-weight:bold;">View on R Shiny →</a>
+    </li>
+   <li> 
+   Scatterplot showing disparities in K-12 education.
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Data_Visualization_Project_DRAFT/" 
-       style="color:#007acc; font-weight:bold;">Interactive Scatterplot</a>
+       style="color:#007acc; font-weight:bold;">View on R Shiny →</a>
   </li>
 </ul>
 
@@ -55,11 +58,11 @@ title: ""
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Public opinion and attitudes about government spending 
+    Public opinion and attitudes about government spending.
     <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
-    Homelessness in NYC 
+    Homelessness in NYC.
     <a href="https://rpubs.com/anavasconcelos/1367252" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
@@ -83,6 +86,7 @@ title: ""
 </ul>
 
 <hr>
+
 
 
 
