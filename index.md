@@ -14,18 +14,35 @@ layout: default
   width: 100% !important;
   padding: 0 2%;
 }
+
+/* ============================== */
+/* MAKE PROJECT DESCRIPTIONS BIGGER */
+/* ============================== */
+
+td[style*="vertical-align:top"] li {
+  font-size: 17px;      /* Increase description font size */
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+
+/* Optional: increase section header sizes slightly */
+td[style*="vertical-align:top"] h3 {
+  font-size: 22px;
+}
+
 </style>
+
 <table style="width:100%; border:none;">
 <tr>
 <!-- LEFT COLUMN -->
 <td style="width:28%; text-align:center; vertical-align:top;">
-     
+
 <!-- ROUND PHOTO -->
 <img src="picture.jpg" width="160" 
      style="border-radius:50%; border:3px solid #ccc; margin-bottom:15px; object-fit:cover;">
 
 <h2 style="margin-bottom:5px;">Ana Vasconcelos</h2>
-<p align="center" style="font-size:12px; margin-top:10px;">
+<p align="center" style="font-size:14px; margin-top:10px;">
   Data Analyst | Public Policy | Visualization & Analytics
 </p>
 <!-- SOCIAL LINKS -->
@@ -44,12 +61,12 @@ layout: default
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-   Dashboard of changing demographics in K–12 education.   
+   Dashboard of changing demographics in K–12 education in Massachusetts.  
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Dashboard_Final/" 
        style="color:#007acc; font-weight:bold;">View on R Shiny →</a>
     </li>
    <li> 
-   Scatterplot showing disparities in K-12 education.
+   Scatterplot showing disparities in K-12 education in Massachusetts.
     <a href="https://anavasconcelos.shinyapps.io/Ana_Vasconcelos_Data_Visualization_Project_DRAFT/" 
        style="color:#007acc; font-weight:bold;">View on R Shiny →</a>
   </li>
@@ -63,15 +80,15 @@ layout: default
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Public opinion and attitudes about government spending.
+    Public opinion and attitudes about government spending using data from American National Election Studies
     <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
-    Homelessness in NYC.
+   Analyzing Homelessness in NYC using NYC Open Data
     <a href="https://rpubs.com/anavasconcelos/1367252" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
-   K-12 education disparities in Massachusetts.  
+  A portfolio displaying analyses of K–12 education disparities in Massachusetts.  
     <a href="https://rpubs.com/anavasconcelos/1368323" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
 </ul>
@@ -91,6 +108,7 @@ layout: default
 </ul>
 
 <hr>
+
 
 
 
