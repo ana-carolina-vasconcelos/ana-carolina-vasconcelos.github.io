@@ -82,12 +82,5 @@ layout: default
 
 <hr>
 
-<!-- ======================== -->
-<!-- ARCGIS PROJECTS -->
-<!-- ======================== -->
-<h3>🗺️ <strong> ArcGIS Projects</strong></h4>
-
-
-
 
 
