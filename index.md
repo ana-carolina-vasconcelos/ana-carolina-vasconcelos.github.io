@@ -5,17 +5,16 @@ description: "Ana Vasconcelos"
 <style>
 /* Expand full page width */
 .wrapper {
-  max-width: 1400px !important;
+  max-width: 1100px !important;
   margin: 0 auto;
 }
 
-/* Expand content area */
 .page-content {
-  max-width: 1400px !important;
+  max-width: 1100px !important;
   width: 100% !important;
   padding: 0 2%;
 }
-
+  
 /* ============================== */
 /* MAKE PROJECT DESCRIPTIONS BIGGER */
 /* ============================== */
@@ -110,6 +109,7 @@ td[style*="width:90%"] h3 {
 </ul>
 
 <hr>
+
 
 
 
