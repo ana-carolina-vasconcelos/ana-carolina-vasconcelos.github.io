@@ -1,5 +1,6 @@
 ---
 layout: default
+description: "Ana Vasconcelos"
 ---
 <style>
 /* Expand full page width */
@@ -19,15 +20,16 @@ layout: default
 /* MAKE PROJECT DESCRIPTIONS BIGGER */
 /* ============================== */
 
-td[style*="vertical-align:top"] li {
-  font-size: 17px;      /* Increase description font size */
-  line-height: 1.4;
-  margin-bottom: 8px;
+/* Make project descriptions bigger (RIGHT COLUMN ONLY) */
+td[style*="width:90%"] li {
+  font-size: 18px !important;
+  line-height: 1.5;
+  margin-bottom: 10px;
 }
 
-/* Optional: increase section header sizes slightly */
-td[style*="vertical-align:top"] h3 {
-  font-size: 22px;
+/* Make section headers larger (RIGHT COLUMN ONLY) */
+td[style*="width:90%"] h3 {
+  font-size: 24px !important;
 }
 
 </style>
@@ -43,7 +45,7 @@ td[style*="vertical-align:top"] h3 {
 
 <h2 style="margin-bottom:5px;">Ana Vasconcelos</h2>
 <p align="center" style="font-size:14px; margin-top:10px;">
-  Data Analyst | Public Policy | Visualization & Analytics
+  Data & Public Policy Analyst 
 </p>
 <!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/anacarolinavasconcelos/">
@@ -80,11 +82,11 @@ td[style*="vertical-align:top"] h3 {
 
 <ul style="margin-top:5px; margin-bottom:5px; padding-left:0px;">
   <li>
-    Public opinion and attitudes about government spending using data from American National Election Studies
+    Analyzing Public opinion about government spending.
     <a href="https://rpubs.com/anavasconcelos/1366942" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
-   Analyzing Homelessness in NYC using NYC Open Data
+   Analyzing Homelessness in NYC using NYC Open Data.
     <a href="https://rpubs.com/anavasconcelos/1367252" style="color:#007acc; font-weight:bold;">View on RPubs →</a>
   </li>
   <li>
@@ -108,6 +110,7 @@ td[style*="vertical-align:top"] h3 {
 </ul>
 
 <hr>
+
 
 
 
